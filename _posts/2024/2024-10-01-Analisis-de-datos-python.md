@@ -1,6 +1,6 @@
 ---
 title: Analisis de datos python
-date: 2024-09-27 12:00:00 -500
+date: 2024-10-01 12:00:00 -500
 categories: [Python, DS]
 tags: [ds]
 image:
