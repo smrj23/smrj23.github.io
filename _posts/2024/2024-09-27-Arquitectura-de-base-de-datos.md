@@ -1,5 +1,5 @@
 ---
-title: Arquitecura escuela
+title: Arquitectura de base de datos
 date: 2024-09-27 12:00:00 -500
 categories: [SQL, DB]
 tags: [sql]
@@ -7,15 +7,15 @@ image:
  path: /assets/img/Diagrama.webp
 ---
 
-# Arquitecura escuela
+# Arquitectura de base de datos
 
 ![Diagrama.PNG](/assets/img/Diagrama.webp)
 
-Para poder crear una base de datos sobre escuela, mi principal enfoque fue sobre el alumno y lo que conlleva su ambiente. Se tiene que ver de la manera mas abstracta posible para desarrollar una arquitectura de base de datos la cual no tenga que mayores cambios a futuro.
+Para poder crear una base de datos se escoge de ejemplo una escuela. Mi principal enfoque fue sobre el alumno y lo que conlleva su ambiente. Se tiene que ver de la manera mas abstracta posible para desarrollar una arquitectura de base de datos la cual no tenga que mayores cambios a futuro.
 
 Es por esto que se divide de la manera absoluta, creando las siguientes tablas:
 
-*  Apoderado del estudiante: Consta de un mail, con su nombre y apellido para poder identificar. su clave primaria es el id del apoderado.
+*  Apoderado del estudiante: Consta de un mail, con su nombre y apellido para poder identificar. Su clave primaria es el id del apoderado.
 
 * Estudiante: Cuenta con su nombre y apellido para poder identificar, la fecha en que admite, su mail y clave para sus ramificaciones. Su clave primaria es id del estudiante.
 
