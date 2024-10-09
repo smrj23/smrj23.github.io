@@ -1,5 +1,5 @@
 ---
-title: Analisis de datos python
+title: Análisis de datos python
 date: 2024-10-01 12:00:00 -500
 categories: [Python, DS]
 tags: [ds]
@@ -13,7 +13,7 @@ image:
 
 La ciencia de datos es una disciplina que mediante la combinación de modelos matemáticos y estadísticos, la programación computacional y las técnicas de visualización de datos, te permitirán obtener el máximo valor de los datos para apoyar los procesos de toma de decisiones.
 
-En este caso el analisis es sobre el set de datos [MAGIC](https://archive.ics.uci.edu/dataset/159/magic+gamma+telescope) sobre particulas de alta energia. Lo importante en este caso es como un Data scientist trabaja, por eso vamos a comparar primero las densidades de las variables para entender en que se diferencian, transformar los datos para nuestra utilidad y finalmente poder utilizar modelos de prediccion machine learning y ver como se ajustan al set.
+En este caso el análisis es sobre el set de datos [MAGIC](https://archive.ics.uci.edu/dataset/159/magic+gamma+telescope) sobre partículas de alta energía. Lo importante en este caso es como un Data  scientist  trabaja, por eso vamos a comparar primero las densidades de las variables para entender en que se diferencian, transformar los datos para nuestra utilidad y finalmente poder utilizar modelos de predicción machine  learning  y ver como se ajustan al set.
 
 Podemos observar, gracias al histograma existen diferentes comportamientos en las columnas:
 
@@ -27,7 +27,7 @@ Podemos observar, gracias al histograma existen diferentes comportamientos en la
 
 * Mientras las demás tiene comportamientos más similares entre sí.
 
-El set de datos tiene valores que tiene mucha diferencia el uno con el otro, es por esto que se crea una funcion que escala los datos, la función utiliza la estandarizacion, es decir, restar su promedio y dividir por su desviación estandar. 
+El set de datos tiene valores que tiene mucha diferencia el uno con el otro, es por esto que se crea una función que escala los datos, la función utiliza la estandarización, es decir, restar su promedio y dividir por su desviación estándar. 
 
 Encontramos que existe una diferencias entre los valores de Gamma y Hadron que pueden generar problemas al querer utilizar modelos de predicción, puesto que se puede sobreponer los valores. Es por esto que es necesario generar una nueva muestra más proporcional entre sí.
 
