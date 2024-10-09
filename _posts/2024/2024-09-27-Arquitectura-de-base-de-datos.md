@@ -4,12 +4,12 @@ date: 2024-09-27 12:00:00 -500
 categories: [SQL, DB]
 tags: [sql]
 image:
- path: /assets/img/Diagrama.webp
+ path: /assets/img/post/Diagrama.webp
 ---
 
 # Arquitectura de base de datos
 
-![Diagrama.PNG](/assets/img/Diagrama.webp)
+![Diagrama.PNG](/assets/img/post/Diagrama.webp)
 
 Para poder crear una base de datos se escoge de ejemplo una escuela. Mi principal enfoque fue sobre el alumno y lo que conlleva su ambiente. Se tiene que ver de la manera mas abstracta posible para desarrollar una arquitectura de base de datos la cual no tenga que mayores cambios a futuro.
 

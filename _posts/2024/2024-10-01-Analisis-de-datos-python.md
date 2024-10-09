@@ -4,12 +4,12 @@ date: 2024-10-01 12:00:00 -500
 categories: [Python, DS]
 tags: [ds]
 image:
- path: /assets/img/python.webp
+ path: /assets/img/post/python.webp
 ---
 
 # Ciencia de datos
 
-![Diagrama.PNG](/assets/img/11.webp)
+![Diagrama.PNG](/assets/img/post/11.webp)
 
 La ciencia de datos es una disciplina que mediante la combinación de modelos matemáticos y estadísticos, la programación computacional y las técnicas de visualización de datos, te permitirán obtener el máximo valor de los datos para apoyar los procesos de toma de decisiones.
 
@@ -17,11 +17,11 @@ En este caso el análisis es sobre el set de datos [MAGIC](https://archive.ics.u
 
 Podemos observar, gracias al histograma existen diferentes comportamientos en las columnas:
 
-![Diagrama.PNG](/assets/img/1.webp)
+![Diagrama.PNG](/assets/img/post/1.webp)
 
 * fLength donde gamma tiene un comportamiento más alto. fAsym gamma tiene un comportamiento más alto.
 
-![Diagrama.PNG](/assets/img/2.webp)
+![Diagrama.PNG](/assets/img/post/2.webp)
 
 * fAlpha gamma tiene una distribución exponencial, mientras que hadron tiene una distribución mas uniforme.
 
