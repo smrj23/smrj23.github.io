@@ -94,4 +94,4 @@ with open('Liquidos.json') as json_file:
 ```
 Nos entrega una lista con los productos que deseamos de una forma amigable la vista, si deseamos generar un `dataframe` véase el código en [GITHUB](https://github.com/smrj23/Scraps/blob/main/Liquidosdf.py).
 
-Entonces en la post aprendimos como realizar `Ingeniería inversa` para un caso real extracción de datos, una manera mas sencilla y amigable para entender como funciona `.json`, y escribir un script en `Python` para unir toda la aventura. Recordemos que para nuestras aventuras de `web scraping` van a variar según lo que enfrentemos, pero espero ***querido lector*** que estés cada vez mas cerca de conseguirlo.  
+Entonces en el post aprendimos como realizar `Ingeniería inversa` para un caso real extracción de datos, una manera mas sencilla y amigable para entender como funciona `.json`, y escribir un script en `Python` para unir toda la aventura. Recordemos que para nuestras aventuras de `web scraping` van a variar según lo que enfrentemos, pero espero ***querido lector*** que estés cada vez mas cerca de conseguirlo.  
