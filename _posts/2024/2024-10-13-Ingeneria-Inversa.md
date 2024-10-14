@@ -25,6 +25,7 @@ Es por esto que debemos ver la información del `back end` del sitio y comprende
 ![p2.webp](/assets/img/post/p2.webp)
 
 3. Seleccionar el filtro de `Fetch/XHR`
+
 ![p3.webp](/assets/img/post/p3.webp)
 
 4. Observar que `API` esta siendo llamada cuando ingresamos al sitio, es una buen ejercicio volver a cargar el sitio para ver el orden. ![p4.webp](/assets/img/post/p4.webp)
