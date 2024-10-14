@@ -1,6 +1,6 @@
 ---
 title: Ingeniería Inversa API
-date: 2024-10-14 12:00:00 -500
+date: 2024-10-13 12:00:00 -500
 categories: [Python, DS]
 tags: [ds]
 image:
