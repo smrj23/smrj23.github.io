@@ -1,6 +1,6 @@
 ---
-title: Gráficos Interactivos En Mercado Bursátil
-date: 2024-10-26 12:00:00 -500
+title: Web Scraping
+date: 2024-10-23 12:00:00 -500
 categories: [Python, DS]
 tags: [ds]
 image:
