@@ -17,7 +17,9 @@ Este proyecto está enfocado como programación con fines educativos.
 Importar los paquetes requeridos para trabajar:
 
 **Yfinance** Para acceder a la información de las acciones que deseamos en un dataframe.
+
 **Pandas** Para trabajar y modificar los dataframe.
+
 **maplotlib.pyplot** Para generar los gráficos.
 
 ## Segundo Paso
