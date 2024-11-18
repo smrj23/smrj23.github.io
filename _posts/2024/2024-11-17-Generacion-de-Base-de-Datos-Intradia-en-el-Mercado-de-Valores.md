@@ -1,6 +1,6 @@
 ---
 title: Generación de Base de Datos Intradía en el Mercado de Valores
-date: 2024-11-08 12:00:00 -500
+date: 2024-11-17 12:00:00 -500
 categories: [Python, SQL]
 tags: [ds]
 image:
